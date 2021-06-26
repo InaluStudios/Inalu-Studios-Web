@@ -1,0 +1,56 @@
+.login{
+    display: none;
+    position:fixed;
+    background-color: white;
+    color: black;
+    top: 5vw;
+    right: 1vw;
+}
+.media{
+    background-color: #3BD2F7;
+    height: 4vw;
+}
+.img{
+    margin-top: -4vw;
+    text-align: center;
+    margin-bottom: 1vw;
+}
+.img-item{
+    border-radius: 50%;
+    width: 5vw;
+    height: 5vw;
+}
+.grup-form {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: 1vw;
+}
+.item-label{
+    font-size: 1.2vw;
+}
+.item-input{
+    padding: 0.5vw;
+}
+.forgot, .create{
+    font-size: 0.9vw;
+    font-family: Nunito;
+}
+.forgot{
+    text-align: right;
+    margin-top: 0;
+    margin-right: 1.1vw;
+}
+.create{
+    text-align: center;
+    margin-bottom: 1vw;
+}
+button{
+    background-color: #FF4646;
+    margin-bottom: 1.5vw;
+    border-radius: 5px;
+    color: white;
+    font-size: 0.9vw;
+    padding: 0.6vw;
+}
